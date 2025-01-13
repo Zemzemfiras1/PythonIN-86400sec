@@ -1,0 +1,7 @@
+[book]
+authors = ["Firas Zemzem"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Learn Python in in 86400 Seconds"
+git-repository-url = "https://github.com/Zemzemfiras1/PythonIN-86400sec"
