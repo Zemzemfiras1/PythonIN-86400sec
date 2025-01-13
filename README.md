@@ -61,12 +61,12 @@ pip install notebook
   1- Clone this repository to your local machine:
 
 ```
-git@github.com:Zemzemfiras1/86400sec.git
+git@github.com:Zemzemfiras1/PythonIN-86400sec.git
 ```
   2- Navigate to the course directory:
     
 ```
-cd 86400Sec
+cd PythonIN-86400sec
 ```
   3- Launch Jupyter Notebook:
     
